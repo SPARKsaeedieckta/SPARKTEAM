@@ -229,7 +229,7 @@ function create_config( )
     sudo_users = {273810826,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
+    about_text = [[SPARK v1 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
 https://githup.com/SPARKsaeedieckta/SPARKTEAM
@@ -419,14 +419,8 @@ Will return group logs
 !banlist
 Will return group ban list
 
-» U can use both "/" and "!" 
-
-» Only mods, owner and admin can add bots in group
-
-» Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
-
-» Only owner can use res,setowner,promote,demote and log commands
-
+| @TEAM_SPARK |	
+@saeed_ieckta_bot	
 ]]
   }
   serialize_to_file(config, './data/config.lua')
