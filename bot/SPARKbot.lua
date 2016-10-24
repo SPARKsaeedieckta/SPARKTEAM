@@ -249,7 +249,7 @@ Vamptacus
 
 Our channels:
 English: @TEAM_SPARK
-Persian: @TEAM_spark
+Persian: @TEAM_SPARK
 ]],
     help_text_realm = [[
 Realm Commands:
